@@ -1,1 +1,2 @@
-var playlist={playlist,artistName,songTitle};
+var playlist={playlist,artistName};
+var =updatePlaylist={playlist,artistName:'songTitle'}
